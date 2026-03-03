@@ -4,3 +4,7 @@
 
 
 <img width="453" height="45" alt="Screenshot from 2026-03-03 11-44-44" src="https://github.com/user-attachments/assets/e6a9b471-ea83-45cd-b041-cd2d2582346a" />
+
+
+Задание 1
+
