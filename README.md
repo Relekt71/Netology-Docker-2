@@ -41,3 +41,8 @@
 <img width="611" height="746" alt="Screenshot from 2026-03-04 17-11-45" src="https://github.com/user-attachments/assets/69089f60-12d6-4344-a6f1-a9626a3000c7" />
 
 Файл compose.yaml для запуска MySQL и приложения
+
+
+Задание 2
+
+
