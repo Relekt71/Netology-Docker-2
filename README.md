@@ -1,4 +1,4 @@
-Задание 0
+<img width="885" height="213" alt="Screenshot from 2026-03-05 14-05-21" src="https://github.com/user-attachments/assets/414b66b6-31da-4e7d-84fa-2d597ad160f9" /><img width="1118" height="361" alt="Screenshot from 2026-03-05 14-06-39" src="https://github.com/user-attachments/assets/47ac33b5-fc8a-43d0-824b-43e1a22129f3" />Задание 0
 
 <img width="658" height="138" alt="Screenshot from 2026-03-03 11-22-22" src="https://github.com/user-attachments/assets/e28d7c97-7bbf-4568-9c9a-22804a3ebb7b" />
 
@@ -64,3 +64,25 @@
 Скриншот sql запроса к БД приложения
 
 https://github.com/Relekt71/shvirtd-example-python
+
+Задание 6
+
+<img width="885" height="213" alt="Screenshot from 2026-03-05 14-05-21" src="https://github.com/user-attachments/assets/677f8c96-ee26-46d9-abc1-cbdc314a4380" />
+
+Скриншот 1: Выполнение docker pull hashicorp/terraform:latest
+
+<img width="1118" height="361" alt="Screenshot from 2026-03-05 14-06-39" src="https://github.com/user-attachments/assets/b0a4d2cd-ed15-4152-9ee4-708bad06f218" />
+
+Скриншот 2: Выполнение docker history hashicorp/terraform:latest
+
+<img width="917" height="52" alt="Screenshot from 2026-03-05 14-07-28" src="https://github.com/user-attachments/assets/4c591950-4729-4695-a5bc-70c0151f0d64" />
+
+Скриншот 3: Создание контейнера и копирование файла (docker cp)
+
+<img width="917" height="73" alt="Screenshot from 2026-03-05 14-07-48" src="https://github.com/user-attachments/assets/15fa1702-7a48-4f83-aa2f-c2f116cfb31d" />
+
+Скриншот 4: Проверка версии ./terraform version
+
+<img width="992" height="74" alt="Screenshot from 2026-03-05 14-08-15" src="https://github.com/user-attachments/assets/84c9adc7-84d1-40a5-8689-2c84082cc5cc" />
+
+Скриншот 5: Выполнение docker save
