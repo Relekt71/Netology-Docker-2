@@ -49,7 +49,9 @@
 
 Задание 4
 
-![Uploading YC Task4.png…]()
+![photo_2026-03-05_13-37-59](https://github.com/user-attachments/assets/292285b8-95f7-48f4-894e-249f9970a1eb)
+
+![photo_2026-03-05_13-39-10](https://github.com/user-attachments/assets/f97f85f6-a048-4f0c-b060-818f07e7e7fc)
 
 Скриншот sql запроса к БД приложения
 
