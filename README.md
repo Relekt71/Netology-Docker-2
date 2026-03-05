@@ -45,4 +45,12 @@
 
 Задание 2
 
+Задание 3
 
+Задание 4
+
+![Uploading YC Task4.png…]()
+
+Скриншот sql запроса к БД приложения
+
+https://github.com/Relekt71/shvirtd-example-python
