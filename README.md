@@ -67,6 +67,10 @@ https://github.com/Relekt71/shvirtd-example-python
 
 Задание 6
 
+<img width="1503" height="796" alt="Screenshot from 2026-03-05 14-33-03" src="https://github.com/user-attachments/assets/d47f2eb0-967e-4694-bd33-7553a1e7e8b0" />
+
+Скриншот Dive
+
 <img width="885" height="213" alt="Screenshot from 2026-03-05 14-05-21" src="https://github.com/user-attachments/assets/677f8c96-ee26-46d9-abc1-cbdc314a4380" />
 
 Скриншот 1: Выполнение docker pull hashicorp/terraform:latest
