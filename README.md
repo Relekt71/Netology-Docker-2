@@ -49,8 +49,11 @@
 
 ![photo_2026-03-05_13-42-59](https://github.com/user-attachments/assets/1071ce30-d526-493d-a53a-598ad5218d66)
 
+Скриншот compose.yaml
 
 <img width="710" height="834" alt="Screenshot from 2026-03-05 08-24-04" src="https://github.com/user-attachments/assets/570ed647-879e-4a72-9cbc-b07c2b376a09" />
+
+Скриншот SQL запроса
 
 Задание 4
 
