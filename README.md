@@ -1,4 +1,4 @@
-<img width="885" height="213" alt="Screenshot from 2026-03-05 14-05-21" src="https://github.com/user-attachments/assets/414b66b6-31da-4e7d-84fa-2d597ad160f9" /><img width="1118" height="361" alt="Screenshot from 2026-03-05 14-06-39" src="https://github.com/user-attachments/assets/47ac33b5-fc8a-43d0-824b-43e1a22129f3" />Задание 0
+Задание 0
 
 <img width="658" height="138" alt="Screenshot from 2026-03-03 11-22-22" src="https://github.com/user-attachments/assets/e28d7c97-7bbf-4568-9c9a-22804a3ebb7b" />
 
